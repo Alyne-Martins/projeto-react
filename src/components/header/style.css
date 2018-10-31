@@ -1,0 +1,15 @@
+header#main-header{
+	width: 100%;
+	height: 50px;
+	background: #007594;
+	font-size: 25px;
+	font-weight: bold;
+	color: #fff;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+}
+
+.logo {
+	width: 50px;
+}
